@@ -7,3 +7,5 @@ CREATE TABLE Persons (
     CONSTRAINT CHK_Person CHECK (Age>=18 AND City='Sandnes')
 );
 //adding new line
+//adding line2 pull request
+
